@@ -1,0 +1,21 @@
+{
+  "name": "angular-react-exemplar",
+  "version": "0.0.0",
+  "authors": [
+    "Code Whisperer <daniel@danielstern.ca>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "ui-router": "~0.2.15",
+    "react": "~0.13.3",
+    "skeleton": "~2.0.4"
+  }
+}
